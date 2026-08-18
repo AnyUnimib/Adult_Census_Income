@@ -1,7 +1,9 @@
 # 📊 Analyzing and Predicting Adult Census Income
 
 Machine Learning course project
-CdLM in Data Science, Università degli Studi di Milano-Bicocca. 
+
+CdLM in Data Science, Università degli Studi di Milano-Bicocca
+
 Submitted February 2025.
 
 **Authors:** Arnab Biswas · Francesca Negri · Any Das · Farabi Issa · Tahira Rezaie
